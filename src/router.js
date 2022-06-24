@@ -7,7 +7,7 @@ import ProfilePage from "./pages/profile.vue";
 //Vue.use(Router)
 const routes = [
   {
-    path: "/",
+    path: "/home",
     name: "home",
     component: HomePage,
   },

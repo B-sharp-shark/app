@@ -49,8 +49,14 @@ export default {
 .radio-input {
   margin-right: 20px;
   size: 50px;
+  input {
+    margin-right: 10px;
+  }
 }
 span {
   margin-right: 20px;
+  label {
+    text-transform: capitalize;
+  }
 }
 </style>

@@ -22,9 +22,13 @@ export default {
 }
 a {
   text-decoration: none;
+  text-transform: uppercase;
   margin-right: 10px;
+  font-weight: bold;
+  color: black;
 }
 .nav {
   padding: 20px;
+  padding-left: 70px;
 }
 </style>
